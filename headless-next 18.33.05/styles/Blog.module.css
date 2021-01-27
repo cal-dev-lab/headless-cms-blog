@@ -1,0 +1,37 @@
+.listitem {
+    padding: 0.5em 0 1em;
+    margin: 1em auto 0.5em;
+    display: flex;
+    max-width: 60%;
+    border-bottom: 1px solid hsl(0, 0%, 89%);
+  }
+  
+  .listitem__thumbnail img {
+    max-width: 10em;
+  }
+  
+  .listitem__content h2 {
+    margin-top: 0;
+  }
+  
+  .listitem__content p {
+    margin-top: 0;
+    margin-bottom: 50px;
+    color: rgb(173, 173, 173);
+    font-size: 0.7rem;
+  }
+
+  .article {
+    max-width: 75%;
+    margin: 1em auto;
+  }
+  
+  .postmeta {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  
+  .article img {
+    max-width: 60%;
+    height: auto;
+  }
