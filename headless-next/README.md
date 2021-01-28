@@ -1,5 +1,5 @@
 ## Errors
-I am in the process of building this site. I am coming across an error with export from '../../pages/api/blog' -> Any advice please let me know.
+I am in the process of building this site. I am coming across an error with export from '../../pages/api/blog' in the <code>[slug].js</code> file. Any help please let me know.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
